@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
+- 🌱 I’m learning **C#, Java, JavaScript, cloud computing and Web Development**  
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**
     
