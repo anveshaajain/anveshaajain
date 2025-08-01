@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**
     
-- ⚡ Fun fact: I enjoy designing UIs that look and feel real!
+- ⚡ Understanding the basics of cloud Architecture!!
+
+- 🚀 Learning cloud security essentials!! 
 
 ---
 
