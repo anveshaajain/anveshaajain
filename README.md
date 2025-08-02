@@ -4,7 +4,7 @@
 ---
 <div align="left">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw3FFpgCmUYPK7D2bNmSSzJW&ust=1754198446064000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODPr_ew644DFQAAAAAdAAAAABAL" width="200" />
 </div>
 
 ### 🌟 About Me
