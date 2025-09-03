@@ -1,74 +1,68 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Anvesha Jain</h1>
-<h3 align="center">🚀 Aspiring Cloud Student</h3>
-
----
-<div align="left">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="200" alt="Coding Girl GIF" />
-</div>
-
-### 🌟 About Me
-
-- 🌱 I’m learning **C#, Java, JavaScript, cloud computing and Web Development**  
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**
-    
-- ⚡ Understanding the basics of cloud Architecture!!
-
-- 🚀 Learning cloud security essentials!! 
+<h3 align="center">☁️ Aspiring Cloud Enthusiast | 💻 Passionate Coder | 🚀 Lifelong Learner</h3>
 
 ---
 
-### 🚀 Tech Stack
-
-<!-- Programming Languages & Tools Badges -->
-<div align="center">
-
-  <!-- Top Row Icons -->
-  <img src="https://skillicons.dev/icons?i=c" height="49" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="49" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="49" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="49" alt="Google Cloud logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/visual-studio.png" height="50" alt="VS Code Purple" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="49" alt="Canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="Git logo" />
-
-</div>
-
-<!-- Second Row Icons -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse IDE logo" />
-</div>
-
-<br />
-
-<!-- Shields Badges -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="50" alt="Windows Terminal" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" alt="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="50" alt="PowerShell" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub Actions" />
-</div>
-
+<!-- Cute Coding Girl GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="230" alt="Coding Girl" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 🌟 About Me  
+
+✨ Curious, creative, and committed to growing in the **world of technology**.  
+- 🎓 Pursuing **BCA** with a focus on **Cloud Computing & Software Development**  
+- 💻 Skilled in **C#, Java, Python, HTML, CSS, JavaScript**  
+- ☁️ Exploring **Cloud Architecture & Security** with the goal of becoming a **Cloud Architect**  
+- 🌍 Passionate about building solutions that **make a real-world impact**  
+- 🎯 Believer in continuous learning and pushing beyond comfort zones  
+- 💡 Fun fact: I see coding not just as work, but as **art + logic combined** 🎨⚡  
+
+---
+
+### 🚀 Tech Stack  
 
 <p align="center">
-  <img width="12" /> 
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,mysql" height="50" />
+  <br><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,gcp,canva" height="50" />
+</p>
+
+---
+
+### 🏆 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnveshaJain&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnveshaJain&theme=tokyonight" alt="GitHub streak" height="180" />
+</p>
+
+---
+
+### 🎨 Fun Extras  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshaJain&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/anvesha-jain-975760356">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anveshajain2005@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="50" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ From [Anvesha Jain](https://github.com/AnveshaJain)
