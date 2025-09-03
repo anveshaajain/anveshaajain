@@ -58,9 +58,6 @@
   <a href="https://www.linkedin.com/in/anvesha-jain-975760356">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
-  <a href="mailto:anveshajain1436@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="50" alt="Gmail"/>
-  </a>
 </p>
 
 ---
