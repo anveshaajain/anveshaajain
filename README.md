@@ -3,8 +3,7 @@
 
 ---
 <div align="left">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="200" alt="Coding Girl GIF" />
 </div>
 
 ### 🌟 About Me
@@ -73,6 +72,3 @@
   <img width="12" /> 
   <a href="https://www.linkedin.com/in/anvesha-jain-975760356">
   <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
- 
-
----
