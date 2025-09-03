@@ -47,7 +47,10 @@
 ### 🎨 Fun Extras  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshaJain&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <!-- Highlighting Python usage -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshaJain&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" alt="Top Languages" height="170" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Most%20Loved%20Language-Python-blue?style=for-the-badge&logo=python" alt="Python Badge"/>
 </p>
 
 ---
