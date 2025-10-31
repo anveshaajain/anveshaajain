@@ -38,13 +38,27 @@
 ### 🏆 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnveshaJain&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnveshaJain&theme=tokyonight" alt="GitHub streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anveshaajain&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshaajain&theme=tokyonight" alt="GitHub streak" height="180" />
 </p>
 
 ---
 
+### 🎮 Play My Mini-Game: Tic Tac Toe  
 
+<p align="center">
+  <a href="https://anveshaajain.github.io/tic-tac-toe/" target="_blank">
+    <img src="https://github.com/anveshaajain/tic-tac-toe/blob/main/preview.gif" width="250" alt="Tic Tac Toe Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://anveshaajain.github.io/tic-tac-toe/" target="_blank">
+    🕹️ Click here to play my Tic Tac Toe game!
+  </a>
+</p>
+
+---
 
 ### 📫 Connect With Me  
 
@@ -55,4 +69,3 @@
 </p>
 
 ---
-
