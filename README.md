@@ -1,50 +1,49 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Anvesha Jain</h1>
-<h3 align="center">☁️ Aspiring Cloud Enthusiast | 💻 Passionate Coder | 🚀 Lifelong Learner</h3>
+<h3 align="center">☁️ Cloud Computing Student | 🐍 Python Learner | 🚀 Growing Every Day</h3>
 
 ---
 
 <!-- Cute Coding Girl GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="230" alt="Coding Girl" />
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="230" alt="Coding Girl"/>
 </p>
 
 ---
 
-### 🌟 About Me  
-
-✨ Curious, creative, and committed to growing in the **world of technology**.  
-- 🎓 Pursuing **BCA** with a focus on **Cloud Computing & Software Development**  
-- 💻 Skilled in **C#, Java, Python, HTML, CSS, JavaScript**  
-- ☁️ Exploring **Cloud Architecture & Security** with the goal of becoming a **Cloud Architect**  
-- 🌍 Passionate about building solutions that **make a real-world impact**  
-- 🎯 Believer in continuous learning and pushing beyond comfort zones  
-- 💡 Fun fact: I see coding not just as work, but as **art + logic combined** 🎨⚡  
+## 🌼 About Me  
+✨ A curious mind exploring the world of **Cloud Computing** & **Software Development**  
+- 🎓 BCA Student specializing in **Cloud Computing**  
+- 🐍 Learning **Python, Flask & SQL**  
+- ☁️ Building my foundation in **AWS / GCP basics**  
+- 🐧 Practicing **Linux fundamentals**  
+- 🎯 Future Goal → Become a **Cloud Architect**  
+- 🌱 Believe in learning slowly, consistently & confidently ✨  
 
 ---
 
-### 🚀 Tech Stack  
+## 📘 Currently Learning  
+- ☁️ Cloud Fundamentals (AWS/GCP)  
+- 🐍 Python + Flask  
+- 🐧 Linux Commands  
+- 🗄️ SQL  
+- 🔧 Git & GitHub  
+- 📦 Basic DevOps Concepts  
 
+---
+
+## 🚀 Tech Stack (Beginner Friendly)
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,mysql" height="50" />
-  <br><br>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,gcp,canva" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,linux,gcp" height="50" />
 </p>
 
 ---
 
-### 🏆 GitHub Stats  
+## 🏗️ Projects  
+> More cloud & python projects coming soon as I learn! 🌱
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anveshaajain&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshaajain&theme=tokyonight" alt="GitHub streak" height="180" />
-</p>
-
----
-
-### 🎮 Play My Mini-Game: Tic Tac Toe  
+### 🔹 Tic Tac Toe (Web Game)  
+🕹️ Simple game built using HTML, CSS & JavaScript
 
 <p align="center">
   <a href="https://anveshaajain.github.io/tic-tac-toe/" target="_blank">
@@ -54,18 +53,28 @@
 
 <p align="center">
   <a href="https://anveshaajain.github.io/tic-tac-toe/" target="_blank">
-    🕹️ Click here to play my Tic Tac Toe game!
+    🕹️ Click here to play!
   </a>
 </p>
 
 ---
 
-### 📫 Connect With Me  
-
+## 🏆 GitHub Stats  
 <p align="center">
-  <a href="https://www.linkedin.com/in/anvesha-jain-975760356">
+  <img src="https://github-readme-stats.vercel.app/api?username=anveshaajain&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshaajain&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anvesha-jain-975760356" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
+
+### 🌟 Thanks for visiting my profile!  
+<p align="center">✨ Let's learn, grow, and build amazing things together ☁️💙</p>
