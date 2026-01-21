@@ -15,15 +15,15 @@
 ✨ A curious mind exploring the world of **Cloud Computing** & **Software Development**  
 - 🎓 BCA Student specializing in **Cloud Computing**  
 - 🐍 Learning **Python, Flask & SQL**  
-- ☁️ Building my foundation in **AWS / GCP basics**  
+- ☁️ Building my foundation in **AWS / Azure basics**  
 - 🐧 Practicing **Linux fundamentals**  
-- 🎯 Future Goal → Become a **Cloud Architect**  
+- 🎯 Future Goal → Become a **Cloud DevOps Engineer**  
 - 🌱 Believe in learning slowly, consistently & confidently ✨  
 
 ---
 
 ## 📘 Currently Learning  
-- ☁️ Cloud Fundamentals (AWS/GCP)  
+- ☁️ Cloud Fundamentals (AWS/Azure)  
 - 🐍 Python + Flask  
 - 🐧 Linux Commands  
 - 🗄️ SQL  
@@ -34,27 +34,7 @@
 
 ## 🚀 Tech Stack (Beginner Friendly)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,linux,gcp" height="50" />
-</p>
-
----
-
-## 🏗️ Projects  
-> More cloud & python projects coming soon as I learn! 🌱
-
-### 🔹 Tic Tac Toe (Web Game)  
-🕹️ Simple game built using HTML, CSS & JavaScript
-
-<p align="center">
-  <a href="https://anveshaajain.github.io/tic-tac-toe/" target="_blank">
-    <img src="https://github.com/anveshaajain/tic-tac-toe/blob/main/preview.gif" width="250" alt="Tic Tac Toe Preview"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://anveshaajain.github.io/tic-tac-toe/" target="_blank">
-    🕹️ Click here to play!
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,aws,azure,git,github,linux" height="50" />
 </p>
 
 ---
