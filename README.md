@@ -39,13 +39,6 @@
 
 ---
 
-## 🏆 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anveshaajain&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/anvesha-jain-975760356" target="_blank">
