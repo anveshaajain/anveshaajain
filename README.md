@@ -34,7 +34,7 @@
 
 ## 🚀 Tech Stack (Beginner Friendly)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,aws,azure,git,github,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,java,aws,azure,git,github,linux,canva,figma,UIUX" height="50" />
 </p>
 
 ---
