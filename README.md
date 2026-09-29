@@ -44,7 +44,7 @@
 ## 💻 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,aws,azure,git,github,linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,aws,azure,git,github" height="50"/>
 </p>
 
 <p align="center">
