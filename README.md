@@ -59,20 +59,6 @@
   UI/UX Design • Wireframing • Prototyping • Basic Web Design
 </p>
 
----
-
-## 🚀 Projects
-
-🔹 **Library Management System**
-A software project focused on managing books, members, issue/return operations and fines.
-
-🔹 **Cloud-Based Learning Project**
-Exploring how cloud services can be used to build and deploy practical applications.
-
-🔹 **Web Development Projects**
-Building beginner-friendly websites using HTML, CSS and JavaScript.
-
-> 🚧 More projects coming soon...
 
 ---
 
