@@ -47,10 +47,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,aws,azure,git,github" height="50"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=canva,figma" height="50"/>
-</p>
-
 ---
 
 ## 🎨 Design & Creative Skills
